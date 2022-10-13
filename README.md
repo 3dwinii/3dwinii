@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @3dwinii
-- 👀 I have just started learning to code!
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate with other students, and to connect with industry pros from whom I can learn
+- 👋 Hi I’m @3dwinii
+- 👀 student of the internet
+- 🌱 currently learning javascript and react
 - 📫 How to reach me ... edwinamessenger@icloud.com, Insta @3dwinii Twitter @3dwinii
 
 <!---
