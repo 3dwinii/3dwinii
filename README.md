@@ -1,6 +1,7 @@
-- 👋 Hi I’m @3dwinii
+- 👋 hi I’m @3dwinii
 - 👀 student of the internet
-- 📫 How to reach me ... edwinamessenger@icloud.com, Twitter @3dwinii
+- 🧢 sydney
+- 📫 how to reach me ... edwinamessenger@icloud.com, twitter @3dwinii
 
 <!---
 3dwinii/3dwinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
